@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Credits:
+# Jean Petric, University of Hertfordshire (http://jeanpetric.github.io/)
+# Ankur Sinha, University of Hertfordshire (http://ankursinha.in/)
+
 TAR=$1
 TAR_PATH="/usr/local/java"
 PROFILE="/etc/profile"
