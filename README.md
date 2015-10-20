@@ -1,4 +1,4 @@
-Bash script for fast installing ORACLE Java JDK on "deb like" systems
+Script for fast installing ORACLE Java JDK on Ubuntu Linux (and hopefully other "deb like" systems)
 --------------------------
 
 ### Use
@@ -20,3 +20,5 @@ This script is still not definite and works at the moment. If Oracle
 significantly changes something I will probably fix the script. :)
 
 The whole thing is taken and converted into this script from here: http://www.wikihow.com/Install-Oracle-Java-on-Ubuntu-Linux
+
+The script was tested only on Kubuntu 14.04.3 LTS but should work on other "deb like" systems as well.
