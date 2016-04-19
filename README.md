@@ -1,4 +1,4 @@
-Updating Java JRE + on Linux Mint (and hopefully other similar systems)
+Updating Java JRE + Firefox plug-in on Linux Mint
 --------------------------
 
 See usage by executing it with no parameters.
