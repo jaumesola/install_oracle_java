@@ -25,7 +25,7 @@ then
 fi
 
 echo "Extracting... "
-#sudo tar -xf "$TAR_FILE" --directory "$TAR_PATH"
+sudo tar -xf "$TAR_FILE" --directory "$TAR_PATH"
 
 VERSION=`basename $TAR_FILE | sed 's/jre-\(.*\)-linux-x64.*$/\1/'`
 MAJOR=`echo $VERSION | sed 's|\([0-9]\+\)u.*$|\1|'`
